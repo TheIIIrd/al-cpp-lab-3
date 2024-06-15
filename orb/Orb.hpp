@@ -1,7 +1,7 @@
 #ifndef ORB_HPP_
 #define ORB_HPP_
 
-#include "Circle.hpp"
+#include "../circle/Circle.hpp"
 
 // Объявление класса Orb, производного от класса Circle, для работы с объемами
 // геометрических фигур
